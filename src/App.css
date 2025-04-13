@@ -1,0 +1,18 @@
+.mot-bg{
+    background: #570d66;
+    background: linear-gradient(90deg, rgba(87, 13, 102, 1) 0%, rgba(139, 56, 150, 1) 76%, rgba(222, 135, 210, 1) 100%);
+}
+.hover-warning:hover {
+    background-color: white !important;
+    border: 1px solid #ffc107 !important; 
+    color: #ffc107 !important;
+  }
+
+  .hover-danger:hover {
+    background-color: white !important;
+    border: 1px solid #f30000 !important; 
+    color: #e10000 !important;
+  }
+  .progress-bar.bg-custom-purple {
+    background-color: #800080 !important; /* Dark purple */
+  }
