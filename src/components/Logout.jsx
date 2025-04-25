@@ -1,6 +1,5 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { Button } from "react-bootstrap";
 import { faRightFromBracket } from "@fortawesome/free-solid-svg-icons/faRightFromBracket";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 

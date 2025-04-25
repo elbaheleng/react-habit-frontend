@@ -1,4 +1,4 @@
-import { Button, Offcanvas } from 'react-bootstrap';
+
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from 'react-router-dom';
@@ -9,10 +9,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 function Header() {
-    const [show, setShow] = useState(false);
+   
 
-    const handleClose = () => setShow(false);
-    const handleShow = () => setShow(true);
+  
 
     return (
         <>

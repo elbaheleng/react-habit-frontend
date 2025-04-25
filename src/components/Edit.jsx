@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import { Button } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 import { editHabitApi } from "../services/allApi";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 
 function Edit({ habit,  setUpdateStatus }) {
   const darkPurple = "rgb(87, 16, 87)";

@@ -1,5 +1,4 @@
 import React from 'react'
-import image1 from '../assets/1.jpg'
 import image2 from '../assets/2.png';
 import Button from 'react-bootstrap/Button';
 import { Link, } from 'react-router-dom';

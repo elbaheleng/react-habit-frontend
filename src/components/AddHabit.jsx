@@ -5,8 +5,6 @@ import { useState } from "react";
 import { Button } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 import { addHabitApi } from "../services/allApi";
-import { getUserApi } from "../services/allApi";
-import { useEffect } from "react";
 import { ToastContainer, toast } from "react-toastify";
 
 function AddHabit({ loggedInUser, setAddHabitStatus }) {

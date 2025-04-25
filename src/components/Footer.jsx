@@ -1,9 +1,5 @@
 import React from 'react'
-import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faInstagram, faTelegram, faXTwitter } from '@fortawesome/free-brands-svg-icons';
-import { Link } from 'react-router-dom';
+
 
 
 function Footer() {

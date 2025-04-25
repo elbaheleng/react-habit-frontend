@@ -3,7 +3,7 @@ import { faLeaf } from "@fortawesome/free-solid-svg-icons/faLeaf";
 import { faTrashCan } from "@fortawesome/free-solid-svg-icons/faTrashCan";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
-import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer } from "react-toastify";
 import { Link } from "react-router-dom";
 
 import {
