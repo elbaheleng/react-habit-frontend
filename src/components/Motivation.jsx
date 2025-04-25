@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './Header'
+import image1 from "../../public/images/pomodoro.png"
 
 function Motivation() {
   return (
@@ -25,7 +26,7 @@ function Motivation() {
               {/* Image */}
               <div className="col-lg-6 text-center align-items-center feature-image">
                 <img
-                  src="/images/pomodoro.png" 
+                  src= {image1} 
                   alt="No image"
                   className="img-fluid"
                   style={{width:'300px'}}
