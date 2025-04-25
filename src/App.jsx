@@ -6,7 +6,7 @@ import { useState } from "react";
 import LogTable from "./components/LogTable";
 import Habit from "./components/Habit";
 import Login from "./components/Login";
-import Landingpage from "./components/Landingpage";
+import Landingpage from "./components/LandingPage";
 import Footer from "./components/Footer";
 import Signup from "./components/Signup";
 import EmployeeCards from "./components/Developers";
