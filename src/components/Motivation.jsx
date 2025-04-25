@@ -25,7 +25,7 @@ function Motivation() {
               {/* Image */}
               <div className="col-lg-6 text-center align-items-center feature-image">
                 <img
-                  src="/public/images/pomodoro.png" 
+                  src="/images/pomodoro.png" 
                   alt="No image"
                   className="img-fluid"
                   style={{width:'300px'}}
@@ -41,7 +41,7 @@ function Motivation() {
               {/* Image */}
               <div className="col-lg-6 text-center feature-image">
                 <img
-                  src="/public/images/two_min.png"
+                  src="/images/two_min.png"
                   alt="No image"
                   className="img-fluid"
                   style={{width:'350px'}}
@@ -83,7 +83,7 @@ function Motivation() {
               {/* Image */}
               <div className="col-lg-6 text-center feature-image mt-5">
                 <img
-                  src="/public/images/flowtime.png"
+                  src="/images/flowtime.png"
                   alt="No image"
                   className="img-fluid"
                   style={{width:'350px'}}
